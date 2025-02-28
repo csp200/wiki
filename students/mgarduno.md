@@ -1,3 +1,3 @@
 # Martin Garduno
 
-- Third year computer science major
+Third year computer science major.
